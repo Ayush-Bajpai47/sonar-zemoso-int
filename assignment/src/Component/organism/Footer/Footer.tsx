@@ -1,5 +1,5 @@
 import { Stack } from '@mui/material'
-import React, { useState } from 'react'
+import React  from 'react'
 import Page from '../../Molecules/Pagination/Pagination'
 import "./footer.css"
 import Dropdown from 'react-bootstrap/Dropdown';

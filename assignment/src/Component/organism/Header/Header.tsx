@@ -3,7 +3,7 @@ import Stack from "@mui/material/Stack";
 import Search_field from '../../Atoms/SearchBar/Search_field';
 import "./Header.css"
 // import MoreVertIcon from '@mui/icons-material/MoreVert';
-import filter from "../Images/filter.png"
+
 import Button from "@material-ui/core/Button"
 import FilterListIcon from '@mui/icons-material/FilterList';
 import MoreVertIcon from '@mui/icons-material/MoreVert';

@@ -1,5 +1,5 @@
-import React from "react";
-import { useState } from "react";
+import React,{ useState } from "react";
+
 import Table from "react-bootstrap/table";
 import { TableName,TableAdjudication,TableStatus, TableLocation, TableDate,tableData } from "../../Assets/Data";
 import { makeStyles } from "@material-ui/core/styles";
