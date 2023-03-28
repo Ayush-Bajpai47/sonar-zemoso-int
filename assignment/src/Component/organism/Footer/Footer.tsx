@@ -22,7 +22,7 @@ const Footer = () => {
   justifyContent="space-around"
   alignItems="center"
    spacing={3}>
-<h2 className='footertext'>5 out of 10 results</h2>
+<h2 className='footertext'>10 out of 84 results</h2>
 
 <Dropdown>
       <Dropdown.Toggle style={dropstyle} >
