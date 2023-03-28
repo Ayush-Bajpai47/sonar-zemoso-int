@@ -18,7 +18,7 @@ const useStyles = makeStyles({
   },
   yellow: {
     color: "#A08817",
-    fontFamily: "Inter",
+    fontFamily: "Inter","sans-serif",
     background: "#FAF8EB",
 
     border: "1px solid #FAF8EB",
