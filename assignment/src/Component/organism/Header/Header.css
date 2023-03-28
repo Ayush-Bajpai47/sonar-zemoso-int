@@ -1,0 +1,27 @@
+.heading{
+    font-size: 16px;
+    font-family: 'Inter',sans-serif;
+    margin-left: 1rem;
+}
+.btn{
+    background: #FFFFFF;
+/* Structural/Stroke */
+
+border: 1px solid #E5E7ED;
+border-radius: 6px;
+}
+.txt{
+    font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+text-transform: none;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+/* Text/Medium emphasis */
+
+color: #696A6E;
+
+}
