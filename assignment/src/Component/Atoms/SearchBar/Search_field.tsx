@@ -1,11 +1,11 @@
-import React, { useState } from 'react'
+import React from 'react'
 import "./Search.css"
 interface data{
   value:React.Dispatch<React.SetStateAction<any>>
 }
 const Search_field:React.FC<data> = (props) => {
 
-const[query,setquery]=useState("")
+
 
   return (
     // <input type="text" id="myInput"  placeholder="Search any candidate" title="Type in a name" onChange={(e)=>{setquery(e.target.value)}}/>
