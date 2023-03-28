@@ -1,6 +1,6 @@
 .heading{
     font-size: 16px;
-    font-family: 'Inter';
+    font-family: 'Inter',sans-serif;
     margin-left: 1rem;
 }
 .btn{
@@ -11,7 +11,7 @@ border: 1px solid #E5E7ED;
 border-radius: 6px;
 }
 .txt{
-    font-family: 'Inter';
+    font-family: 'Inter',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
