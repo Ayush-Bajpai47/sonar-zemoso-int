@@ -1,0 +1,27 @@
+.tablehead{
+    color: #696A6E;
+    background-color: #F7F8FA;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Inter';
+}
+body{
+    font-family: 'Inter';
+}
+.namefield{
+    color: #224DFF;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+}
+.datafield{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+color: #2C2C2E;
+}
